@@ -37,3 +37,35 @@ document.querySelectorAll('[data-price-filter]').forEach(btn => {
     });
   });
 });
+
+(function(){
+  const cards = [...document.querySelectorAll('[data-radar-category]')];
+  const filters = [...document.querySelectorAll('[data-radar-filter]')];
+  const search = document.querySelector('#radarSearch');
+  const count = document.querySelector('[data-visible-count]');
+  let active = 'all';
+
+  function applyRadar(){
+    const q = search ? search.value.trim().toLowerCase() : '';
+    let visible = 0;
+    cards.forEach(card => {
+      const catOk = active === 'all' || card.dataset.radarCategory === active;
+      const textOk = !q || (card.dataset.searchText || '').includes(q);
+      card.hidden = !(catOk && textOk);
+      if (!card.hidden) visible++;
+    });
+    if (count) count.textContent = visible;
+  }
+
+  filters.forEach(btn => {
+    btn.addEventListener('click', () => {
+      filters.forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      active = btn.dataset.radarFilter || 'all';
+      applyRadar();
+    });
+  });
+
+  if (search) search.addEventListener('input', applyRadar);
+  applyRadar();
+})();

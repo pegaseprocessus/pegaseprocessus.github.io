@@ -41,3 +41,24 @@ This first version does not invent stock, prices, technical specifications, warr
 
 ## Important market-price note
 The Newegg prices are external market references reviewed in September 2026. They are not represented as PegaseProcessus inventory or selling prices and may change.
+
+## V3 Professional Retail Upgrade
+- 80 Newegg external market-price references displayed directly on the website
+- Searchable Price Radar
+- Category filters and live visible-result count
+- Prices visible on the homepage
+- Dedicated price-rich pages for Phones, Audio, Power, Wearables and Tablets
+- Expanded licensed editorial photography
+- New Wearables page
+- New Tablets page
+- More professional shop hub and photo-led homepage
+- Clear external-reference / non-affiliation notices
+
+### Price counts
+- Phones: 28
+- Audio: 15
+- Power: 23
+- Wearables: 9
+- Tablets: 5
+
+Newegg prices are research references, not PegaseProcessus inventory or guaranteed selling prices.

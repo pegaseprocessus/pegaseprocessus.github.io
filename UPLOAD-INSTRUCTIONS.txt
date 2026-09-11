@@ -1,16 +1,21 @@
-PEGASEPROCESSUS V2 — UPLOAD INSTRUCTIONS
+PEGASEPROCESSUS V3 — PROFESSIONAL RETAIL UPGRADE
 
 1. Extract this ZIP.
-2. Open pegaseprocessus.github.io on GitHub.
+2. Open the GitHub repository pegaseprocessus.github.io.
 3. Add file → Upload files.
-4. Upload every file/folder INSIDE the extracted ZIP.
-5. Replace matching V1 files.
-6. Commit changes to main.
+4. Upload every file and folder INSIDE this ZIP.
+5. Replace the matching V2 files.
+6. Commit changes to the main branch.
 7. GitHub Pages will redeploy automatically.
 
-New V2 page:
-https://pegaseprocessus.github.io/market-prices.html
+IMPORTANT PAGES
+- https://pegaseprocessus.github.io/
+- https://pegaseprocessus.github.io/market-prices.html
+- https://pegaseprocessus.github.io/phones.html
+- https://pegaseprocessus.github.io/audio.html
+- https://pegaseprocessus.github.io/accessories.html
+- https://pegaseprocessus.github.io/wearables.html
+- https://pegaseprocessus.github.io/tablets.html
 
-Important:
-The real editorial photos are loaded from Unsplash when the website is online.
-Newegg prices are market references and can change.
+V3 includes 80 visible Newegg market-price references.
+The photography is loaded from licensed Unsplash sources when the website is online.
