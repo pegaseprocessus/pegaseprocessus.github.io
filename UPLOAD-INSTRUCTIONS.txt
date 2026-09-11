@@ -1,0 +1,13 @@
+PEGASEPROCESSUS — UPLOAD INSTRUCTIONS
+
+1. Extract this ZIP on your computer.
+2. Open your GitHub repository: pegaseprocessus.github.io
+3. Click "uploading an existing file" or Add file → Upload files.
+4. Upload ALL files and folders INSIDE the extracted folder.
+5. Do NOT upload only the ZIP.
+6. Commit the files to the main branch.
+7. Open Settings → Pages.
+8. If needed, choose:
+   Deploy from a branch → main → /(root) → Save.
+9. Your website will be:
+   https://pegaseprocessus.github.io/
