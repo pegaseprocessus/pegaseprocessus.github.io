@@ -1,13 +1,16 @@
-PEGASEPROCESSUS — UPLOAD INSTRUCTIONS
+PEGASEPROCESSUS V2 — UPLOAD INSTRUCTIONS
 
-1. Extract this ZIP on your computer.
-2. Open your GitHub repository: pegaseprocessus.github.io
-3. Click "uploading an existing file" or Add file → Upload files.
-4. Upload ALL files and folders INSIDE the extracted folder.
-5. Do NOT upload only the ZIP.
-6. Commit the files to the main branch.
-7. Open Settings → Pages.
-8. If needed, choose:
-   Deploy from a branch → main → /(root) → Save.
-9. Your website will be:
-   https://pegaseprocessus.github.io/
+1. Extract this ZIP.
+2. Open pegaseprocessus.github.io on GitHub.
+3. Add file → Upload files.
+4. Upload every file/folder INSIDE the extracted ZIP.
+5. Replace matching V1 files.
+6. Commit changes to main.
+7. GitHub Pages will redeploy automatically.
+
+New V2 page:
+https://pegaseprocessus.github.io/market-prices.html
+
+Important:
+The real editorial photos are loaded from Unsplash when the website is online.
+Newegg prices are market references and can change.

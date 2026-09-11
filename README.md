@@ -29,3 +29,15 @@ Official GitHub Pages website for PegaseProcessus — a developing consumer-elec
 This first version does not invent stock, prices, technical specifications, warranties, official manufacturer relationships, shipping terms or customer reviews. Those details can be added when confirmed.
 
 © 2026 PegaseProcessus. All rights reserved.
+
+## V2 upgrades
+- Licensed real technology photography from Unsplash
+- More realistic smartphone, audio and charging category pages
+- Market Prices page with 33 Newegg reference prices
+- Filters for Phones, Audio and Power
+- Clear non-affiliation and price-change notices
+- Photo credits page
+- No Newegg product photography copied
+
+## Important market-price note
+The Newegg prices are external market references reviewed in September 2026. They are not represented as PegaseProcessus inventory or selling prices and may change.

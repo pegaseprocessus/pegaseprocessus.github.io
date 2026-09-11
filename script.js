@@ -26,3 +26,14 @@ if ('IntersectionObserver' in window) {
 } else {
   reveals.forEach(el => el.classList.add('visible'));
 }
+
+document.querySelectorAll('[data-price-filter]').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('[data-price-filter]').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    const f = btn.dataset.priceFilter;
+    document.querySelectorAll('[data-price-category]').forEach(card => {
+      card.style.display = (f === 'all' || card.dataset.priceCategory === f) ? '' : 'none';
+    });
+  });
+});
